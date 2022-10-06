@@ -1,2 +1,2 @@
-# data_science
-Sharing stuff while studying and learning
+# data_science repo
+Sharing stuff while studying and learning Data_Science and Machile learning.
